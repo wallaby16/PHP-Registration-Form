@@ -37,7 +37,7 @@ $userRow = mysqli_fetch_array($res, MYSQLI_ASSOC);
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="#">First Link</a></li>
-                <li><a href="#">Second Link</a></li>
+                <li><a href="https://ocpconsole.xplat.fis.vn:8443">OCP Link</a></li>
                 <li><a href="#">Third Link</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
